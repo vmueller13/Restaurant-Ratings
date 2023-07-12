@@ -12,15 +12,10 @@ After this, I conducted an exploratory analysis based on some questions from the
 
 * Which establishments have a hygiene score equal to 20?
 * Which establishments in London have a RatingValue greater than or equal to 4?
-
 ![Rating Value DataFrame](rating_df.png)
-
 * What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 * How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
-
 ![Hygiene Rating DataFrame](hygiene_df.png)
-
-
 For each of these questions, I used `count_documents` to display the number of documents in the result, `pprint` to display the first result and convert the result to a Pandas DataFrame to display the first 10 rows. After the analysis was finished, the magazine had a good list of places to visit and those to avoid.
 
 <ins>Challenges</ins>
