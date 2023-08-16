@@ -1,4 +1,4 @@
-# Module 12: No SQL Challenge
+# No SQL Restaurant Rating
 
 <ins>Project Overview</ins>
 
